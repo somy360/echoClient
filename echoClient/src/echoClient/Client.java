@@ -22,8 +22,6 @@ public class Client {
 	
 	BufferedReader stdIn;
 	
-	
-	
 	/*
 	 * Our main constructor
 	 */
@@ -33,7 +31,6 @@ public class Client {
 		getEcho();
 		
 	}
-	
 	
 	/*
 	 * Initialise our global variables for use throughout the class
@@ -50,7 +47,6 @@ public class Client {
 			e.printStackTrace();
 		}
 	}
-	
 	
 	/*
 	 * 
