@@ -10,7 +10,7 @@ import java.net.UnknownHostException;
 public class Client {
 	
 	//static variables of our server
-	private static final String host = "3.8.197.180";
+	private static final String host = "3.9.181.31";
 	private static final int port = 40138;
 	
 	//our socket to make a connection with the server
